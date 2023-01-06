@@ -1,2 +1,2 @@
 # web2
-repository flask program model sarima
+web app menggunakan flask membuat program model sarima ketahanan pangan
